@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1><span style="color: #6caef1;">Ejemplo de Informe de Stpatial Transcriptomics generado con GenoScribe</span></h1>
+  <h1><span style="color: #6caef1;">Ejemplo de Informe de Spatial Transcriptomics generado con GenoScribe</span></h1>
 
   <hr style="border:none; height:0.3px; background-color:#777; width:65%; margin:30px auto 35px auto;">
 
@@ -77,7 +77,7 @@ El objetivo principal es **servir como demostración**, alojando el informe en u
 ## 📂 Estructura del repositorio
 
 ```plaintext
-GenoScribe-Stpatial-Transcriptomics-RNA-Seq-Report
+GenoScribe-Spatial-Transcriptomics-Report
 ├── assets
 │   ├── cover.png
 │   └── demostration.gif
@@ -116,7 +116,7 @@ Si se quisiera ejecutar localmente, se usaría un script en `resources/1-essenti
 
 ## 💡 Demostración
 
-El pipeline de **Stpatial Transcriptomics** en GenoScribe genera un **informe interactivo, reproducible y auto-contenido**, estructurado en pestañas que permiten explorar los resultados de manera progresiva y clara.  
+El pipeline de **Spatial Transcriptomics** en GenoScribe genera un **informe interactivo, reproducible y auto-contenido**, estructurado en pestañas que permiten explorar los resultados de manera progresiva y clara.  
 
 <p align="center">
   <img src="assets/demostration.gif" alt="GenoScribe Demonstration" width="65%" style="border-radius: 10px;">
@@ -137,7 +137,7 @@ Este GIF anterior muestra la **estructura y funcionalidad del informe**, incluye
 
 ## 🎬 Proceso de Generación del Informe Interactivo
 
-Si desea ver **todo el proceso real** de creación de un informe interactivo de Stpatial Transcriptomics con GenoScribe —desde la descarga del repositorio hasta la generación final del reporte— puede consultar el siguiente video demostrativo:
+Si desea ver **todo el proceso real** de creación de un informe interactivo de Spatial Transcriptomics con GenoScribe —desde la descarga del repositorio hasta la generación final del reporte— puede consultar el siguiente video demostrativo:
 
 <p align="center">
   <a href="https://youtu.be/NgfRW_-h-4o" target="_blank">
@@ -160,7 +160,7 @@ Si desea ver **todo el proceso real** de creación de un informe interactivo de 
 
 ## 🔗 Informe Web
 
-Consulta la versión web interactiva del informe de ejemplo: 👉 [https://adrichez.github.io/GenoScribe-Stpatial-Transcriptomics-RNA-Seq-Report/](https://adrichez.github.io/GenoScribe-Stpatial-Transcriptomics-RNA-Seq-Report/)  
+Consulta la versión web interactiva del informe de ejemplo: 👉 [https://adrichez.github.io/GenoScribe-Spatial-Transcriptomics-Report/](https://adrichez.github.io/GenoScribe-Spatial-Transcriptomics-Report/)  
 
 **Objetivo principal:** que el informe esté disponible en la web para su **consulta y demostración**.
 
@@ -175,8 +175,8 @@ Consulta la versión web interactiva del informe de ejemplo: 👉 [https://adric
 
 ## 📝 Notas
 
-* Este repositorio es **principalmente demostrativo**, para mostrar cómo se ve un informe de GenoScribe para Stpatial Transcriptomics.  
-* Para más información sobre cómo se generó este informe, los pasos, parámetros y herramientas involucradas, se puede consultar la **Guía de Usuario de GenoScribe para Stpatial Transcriptomics**, disponible en el repositorio principal: [https://github.com/adrichez/GenoScribe](https://github.com/adrichez/GenoScribe).  
+* Este repositorio es **principalmente demostrativo**, para mostrar cómo se ve un informe de GenoScribe para Spatial Transcriptomics.  
+* Para más información sobre cómo se generó este informe, los pasos, parámetros y herramientas involucradas, se puede consultar la **Guía de Usuario de GenoScribe para Spatial Transcriptomics**, disponible en el repositorio principal: [https://github.com/adrichez/GenoScribe](https://github.com/adrichez/GenoScribe).  
 
 
 
